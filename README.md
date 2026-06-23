@@ -27,7 +27,7 @@
 </a> 
 <!-- LangChain -->
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://python.langchain.com/img/favicon.ico" alt="langchain" width="40" height="40"/>
+  <img src="https://www.streamlinehq.com/icons/download/langchain--31088" alt="langchain" width="40" height="40"/>
 </a>
 <!-- Llama -->
 <a href="https://www.llama.com/" target="_blank" rel="noreferrer">
@@ -42,11 +42,6 @@
 <!-- Hibernate -->
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
-</a>
-
-<!-- Spring Data JPA -->
-<a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-data-jpa" width="40" height="40"/>
 </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainivas03&show_icons=true&locale=en&layout=compact" alt="jainivas03" /></p>

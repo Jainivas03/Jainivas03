@@ -25,9 +25,13 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </a> 
-<!-- LLM / Generative AI -->
-<a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/openai" alt="llm" width="40" height="40"/>
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://python.langchain.com/img/favicon.ico" alt="langchain" width="40" height="40"/>
+</a>
+<!-- Llama -->
+<a href="https://www.llama.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/meta" alt="llama" width="40" height="40"/>
 </a>
 
 <!-- Spring Boot -->

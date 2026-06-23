@@ -27,7 +27,7 @@
 </a> 
 <!-- LangChain -->
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.streamlinehq.com/icons/download/langchain--31088" alt="langchain" width="40" height="40"/>
+  <img src="https://dl.svgcdn.com/png/simple-icons/langchain-800.png" alt="langchain" width="40" height="40"/>
 </a>
 <!-- Llama -->
 <a href="https://www.llama.com/" target="_blank" rel="noreferrer">

@@ -25,6 +25,10 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </a> 
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
+</a>
 <!-- LangChain -->
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
   <img src="https://dl.svgcdn.com/png/simple-icons/langchain-800.png" alt="langchain" width="40" height="40"/>
